@@ -1,0 +1,4 @@
+[alias]
+    st = status
+    prelog = log --graph --decorate --oneline
+    diff = diff --color-words
