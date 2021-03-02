@@ -2,5 +2,10 @@
     st = status
     prelog = log --graph --decorate --oneline
     diff = diff --color-words
+[user]
+	name = NaokiKamimura
+	email = n.kamimura1988@gmail.com
 [core]
-    editor = vim
+	editor = vim
+[pull]
+	rebase = false
