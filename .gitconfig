@@ -3,8 +3,8 @@
     prelog = log --graph --decorate --oneline
     diff = diff --color-words
 [user]
-	name = NaokiKamimura
-	email = n.kamimura1988@gmail.com
+	name = naokami3
+	email = 2898782+naokami3@users.noreply.github.com
 [core]
 	editor = vim
 [pull]
